@@ -1,0 +1,20 @@
+{
+  "name": "foxintelligenceBower",
+  "homepage": "https://github.com/Plandal/foxintelligenceBower",
+  "authors": [
+    "langrand <ludo.langrand@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+   "dependencies": {
+    "jquery": "1.9.1 - 3"
+    }
+}
